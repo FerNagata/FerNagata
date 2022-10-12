@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning HTML/CSS
+- 📫 How to reach me: fer.nagataito@outlook.com
+
 <!--
 **FerNagata/FerNagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
