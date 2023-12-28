@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fernagata&label=Profile%20views&color=0e75b6&style=flat" alt="fernagata" /> </p>
-
 ## Hi there, I'm Fernanda 👋
 
 🌟 Studying computer engineering. </br>
@@ -28,7 +26,8 @@ Feel free to reach out and connect with me. Whether you want to discuss technolo
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerNagata&theme=ayu-mirage&layout=compact" />
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fernagata&label=Profile%20views&color=0e75b6&style=flat" alt="fernagata" /> </p>
