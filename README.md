@@ -1,6 +1,7 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fernagata&label=Profile%20views&color=0e75b6&style=flat" alt="fernagata" /> </p>
+
 ## Hi there, I'm Fernanda 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernagata&label=Profile%20views&color=0e75b6&style=flat" alt="fernagata" /> </p>
 🌟 Studying computer engineering. </br>
 💻 I enjoy delving into new languages and exploring the possibilities that technology offers. </br>
 💡 I believe that learning is a continuous journey, and I am always open to new experiences that broaden my technical and personal horizons.
